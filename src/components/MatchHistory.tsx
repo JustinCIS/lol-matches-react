@@ -19,7 +19,7 @@ class MatchHistory extends React.Component<{}, { ign: string, version: string, c
 
     constructor(props: any) {
         super(props);
-        this.ddragonCDN = "http://ddragon.leagueoflegends.com/cdn/";
+        this.ddragonCDN = "https://ddragon.leagueoflegends.com/cdn/";
         this.championPath = "/img/champion/";
         this.spellPath = "/img/spell/";
         this.itemPath = "/img/item/";

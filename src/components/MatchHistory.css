@@ -5,7 +5,7 @@
     display: block;
     height: 175px;
     width: 175px !important;
-    background: url('/images/jo-logo-icon.png') no-repeat;
+    background: url('../images/jo-logo-icon.png') no-repeat;
     background-size: 175px 175px;
     margin: 10px;
     z-index: -1;

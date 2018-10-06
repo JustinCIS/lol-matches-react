@@ -2,9 +2,11 @@
   "name": "lol-matches-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://justincis.github.io/lol-matches-react",
   "dependencies": {
     "classnames": "^2.2.6",
     "express": "^4.16.3",
+    "gh-pages": "^2.0.1",
     "primeicons": "^1.0.0-beta.10",
     "primereact": "^2.0.0-beta.8",
     "react": "^16.5.2",
@@ -17,7 +19,9 @@
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
-    "eject": "react-scripts-ts eject"
+    "eject": "react-scripts-ts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@types/jest": "^23.3.2",

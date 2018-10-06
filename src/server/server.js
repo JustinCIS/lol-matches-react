@@ -2,7 +2,7 @@ var express = require('express');
 var request = require('request');
 
 var app = express();
-var apiKey = "RGAPI-53ca1155-c6ee-406d-907b-6d426d87e5f6";
+var apiKey = "RGAPI-dfbe844a-ce2c-4609-b98f-ee3e68f0a63a";
 
 var ddragonURL = "https://ddragon.leagueoflegends.com";
 var devAPIURL = "https://na1.api.riotgames.com/lol/summoner/v3";

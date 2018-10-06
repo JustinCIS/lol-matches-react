@@ -28,6 +28,5 @@
   },
   "engines": {
     "node": "10.5.0"
-  },
-  "proxy": "http://localhost:8080"
+  }
 }

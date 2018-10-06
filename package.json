@@ -28,5 +28,6 @@
   },
   "engines": {
     "node": "10.5.0"
-  }
+  },
+  "proxy": "http://lol-matches-react.herokuapp.com"
 }

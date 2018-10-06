@@ -1,9 +1,10 @@
 {
-  "main.css": "static/css/main.0e583efa.css",
-  "main.css.map": "static/css/main.0e583efa.css.map",
-  "main.js": "static/js/main.aac4b7ce.js",
-  "main.js.map": "static/js/main.aac4b7ce.js.map",
+  "main.css": "static/css/main.6f2930ab.css",
+  "main.css.map": "static/css/main.6f2930ab.css.map",
+  "main.js": "static/js/main.a5b4d3f4.js",
+  "main.js.map": "static/js/main.a5b4d3f4.js.map",
   "static\\media\\color.png": "static/media/color.c7a33805.png",
+  "static\\media\\jo-logo-icon.png": "static/media/jo-logo-icon.5c23d506.png",
   "static\\media\\line.gif": "static/media/line.567f5738.gif",
   "static\\media\\open-sans-v15-latin-300.eot": "static/media/open-sans-v15-latin-300.76b56857.eot",
   "static\\media\\open-sans-v15-latin-300.svg": "static/media/open-sans-v15-latin-300.27ef0b06.svg",
@@ -23,5 +24,6 @@
   "static\\media\\primeicons.eot": "static/media/primeicons.82643753.eot",
   "static\\media\\primeicons.svg": "static/media/primeicons.721cded7.svg",
   "static\\media\\primeicons.ttf": "static/media/primeicons.578adf24.ttf",
-  "static\\media\\primeicons.woff": "static/media/primeicons.7b38afd8.woff"
+  "static\\media\\primeicons.woff": "static/media/primeicons.7b38afd8.woff",
+  "static\\media\\wallpaper.png": "static/media/wallpaper.acc246e7.png"
 }

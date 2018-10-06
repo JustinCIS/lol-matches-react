@@ -1,0 +1,40 @@
+.float-logo {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: block;
+    height: 175px;
+    width: 175px !important;
+    background: url('/images/jo-logo-icon.png') no-repeat;
+    background-size: 175px 175px;
+    margin: 10px;
+    z-index: -1;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    height: 100vh !important;
+    margin: 0;
+}
+
+.search-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.table-width {
+    display: flex;
+    width: 80%;
+    height: 50vh;
+    border: 1px solid black;
+}
+
+.p-column-title {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #1f7ed0;
+}

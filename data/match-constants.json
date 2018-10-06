@@ -1,0 +1,440 @@
+[
+  {
+    "ID": 0,
+    "MAP": "Custom games",
+    "DESCRIPTION": "",
+    "NOTES": ""
+  },
+  {
+    "ID": 2,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "5v5 Blind Pick games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 430"
+  },
+  {
+    "ID": 4,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "5v5 Ranked Solo games",
+    "NOTES": "Deprecated in favor of queueId 420"
+  },
+  {
+    "ID": 6,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "5v5 Ranked Premade games",
+    "NOTES": "Game mode deprecated"
+  },
+  {
+    "ID": 7,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Co-op vs AI games",
+    "NOTES": "Deprecated in favor of queueId 32 and 33"
+  },
+  {
+    "ID": 8,
+    "MAP": "Twisted Treeline",
+    "DESCRIPTION": "3v3 Normal games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 460"
+  },
+  {
+    "ID": 9,
+    "MAP": "Twisted Treeline",
+    "DESCRIPTION": "3v3 Ranked Flex games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 470"
+  },
+  {
+    "ID": 14,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "5v5 Draft Pick games",
+    "NOTES": "Deprecated in favor of queueId 400"
+  },
+  {
+    "ID": 16,
+    "MAP": "Crystal Scar",
+    "DESCRIPTION": "5v5 Dominion Blind Pick games",
+    "NOTES": "Game mode deprecated"
+  },
+  {
+    "ID": 17,
+    "MAP": "Crystal Scar",
+    "DESCRIPTION": "5v5 Dominion Draft Pick games",
+    "NOTES": "Game mode deprecated"
+  },
+  {
+    "ID": 25,
+    "MAP": "Crystal Scar",
+    "DESCRIPTION": "Dominion Co-op vs AI games",
+    "NOTES": "Game mode deprecated"
+  },
+  {
+    "ID": 31,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Co-op vs AI Intro Bot games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 830"
+  },
+  {
+    "ID": 32,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Co-op vs AI Beginner Bot games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 840"
+  },
+  {
+    "ID": 33,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Co-op vs AI Intermediate Bot games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 850"
+  },
+  {
+    "ID": 41,
+    "MAP": "Twisted Treeline",
+    "DESCRIPTION": "3v3 Ranked Team games",
+    "NOTES": "Game mode deprecated"
+  },
+  {
+    "ID": 42,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "5v5 Ranked Team games",
+    "NOTES": "Game mode deprecated"
+  },
+  {
+    "ID": 52,
+    "MAP": "Twisted Treeline",
+    "DESCRIPTION": "Co-op vs AI games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 800"
+  },
+  {
+    "ID": 61,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "5v5 Team Builder games",
+    "NOTES": "Game mode deprecated"
+  },
+  {
+    "ID": 65,
+    "MAP": "Howling Abyss",
+    "DESCRIPTION": "5v5 ARAM games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 450"
+  },
+  {
+    "ID": 70,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "One for All games",
+    "NOTES": "Deprecated in patch 8.6 in favor of queueId 1020"
+  },
+  {
+    "ID": 72,
+    "MAP": "Howling Abyss",
+    "DESCRIPTION": "1v1 Snowdown Showdown games",
+    "NOTES": ""
+  },
+  {
+    "ID": 73,
+    "MAP": "Howling Abyss",
+    "DESCRIPTION": "2v2 Snowdown Showdown games",
+    "NOTES": ""
+  },
+  {
+    "ID": 75,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "6v6 Hexakill games",
+    "NOTES": ""
+  },
+  {
+    "ID": 76,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Ultra Rapid Fire games",
+    "NOTES": ""
+  },
+  {
+    "ID": 78,
+    "MAP": "Howling Abyss",
+    "DESCRIPTION": "One For All: Mirror Mode games",
+    "NOTES": ""
+  },
+  {
+    "ID": 83,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Co-op vs AI Ultra Rapid Fire games",
+    "NOTES": ""
+  },
+  {
+    "ID": 91,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Doom Bots Rank 1 games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 950"
+  },
+  {
+    "ID": 92,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Doom Bots Rank 2 games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 950"
+  },
+  {
+    "ID": 93,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Doom Bots Rank 5 games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 950"
+  },
+  {
+    "ID": 96,
+    "MAP": "Crystal Scar",
+    "DESCRIPTION": "Ascension games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 910"
+  },
+  {
+    "ID": 98,
+    "MAP": "Twisted Treeline",
+    "DESCRIPTION": "6v6 Hexakill games",
+    "NOTES": ""
+  },
+  {
+    "ID": 100,
+    "MAP": "Butcher's Bridge",
+    "DESCRIPTION": "5v5 ARAM games",
+    "NOTES": ""
+  },
+  {
+    "ID": 300,
+    "MAP": "Howling Abyss",
+    "DESCRIPTION": "Legend of the Poro King games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 920"
+  },
+  {
+    "ID": 310,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Nemesis games",
+    "NOTES": ""
+  },
+  {
+    "ID": 313,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Black Market Brawlers games",
+    "NOTES": ""
+  },
+  {
+    "ID": 315,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Nexus Siege games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 940"
+  },
+  {
+    "ID": 317,
+    "MAP": "Crystal Scar",
+    "DESCRIPTION": "Definitely Not Dominion games",
+    "NOTES": ""
+  },
+  {
+    "ID": 318,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "ARURF games",
+    "NOTES": "Deprecated in patch 7.19 in favor of queueId 900"
+  },
+  {
+    "ID": 325,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "All Random games",
+    "NOTES": ""
+  },
+  {
+    "ID": 400,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "5v5 Draft Pick games",
+    "NOTES": ""
+  },
+  {
+    "ID": 410,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "5v5 Ranked Dynamic games",
+    "NOTES": "Game mode deprecated in patch 6.22"
+  },
+  {
+    "ID": 420,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "5v5 Ranked Solo games",
+    "NOTES": ""
+  },
+  {
+    "ID": 430,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "5v5 Blind Pick games",
+    "NOTES": ""
+  },
+  {
+    "ID": 440,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "5v5 Ranked Flex games",
+    "NOTES": ""
+  },
+  {
+    "ID": 450,
+    "MAP": "Howling Abyss",
+    "DESCRIPTION": "5v5 ARAM games",
+    "NOTES": ""
+  },
+  {
+    "ID": 460,
+    "MAP": "Twisted Treeline",
+    "DESCRIPTION": "3v3 Blind Pick games",
+    "NOTES": ""
+  },
+  {
+    "ID": 470,
+    "MAP": "Twisted Treeline",
+    "DESCRIPTION": "3v3 Ranked Flex games",
+    "NOTES": ""
+  },
+  {
+    "ID": 600,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Blood Hunt Assassin games",
+    "NOTES": ""
+  },
+  {
+    "ID": 610,
+    "MAP": "Cosmic Ruins",
+    "DESCRIPTION": "Dark Star: Singularity games",
+    "NOTES": ""
+  },
+  {
+    "ID": 700,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Clash games",
+    "NOTES": ""
+  },
+  {
+    "ID": 800,
+    "MAP": "Twisted Treeline",
+    "DESCRIPTION": "Co-op vs. AI Intermediate Bot games",
+    "NOTES": ""
+  },
+  {
+    "ID": 810,
+    "MAP": "Twisted Treeline",
+    "DESCRIPTION": "Co-op vs. AI Intro Bot games",
+    "NOTES": ""
+  },
+  {
+    "ID": 820,
+    "MAP": "Twisted Treeline",
+    "DESCRIPTION": "Co-op vs. AI Beginner Bot games",
+    "NOTES": ""
+  },
+  {
+    "ID": 830,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Co-op vs. AI Intro Bot games",
+    "NOTES": ""
+  },
+  {
+    "ID": 840,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Co-op vs. AI Beginner Bot games",
+    "NOTES": ""
+  },
+  {
+    "ID": 850,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Co-op vs. AI Intermediate Bot games",
+    "NOTES": ""
+  },
+  {
+    "ID": 900,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "ARURF games",
+    "NOTES": ""
+  },
+  {
+    "ID": 910,
+    "MAP": "Crystal Scar",
+    "DESCRIPTION": "Ascension games",
+    "NOTES": ""
+  },
+  {
+    "ID": 920,
+    "MAP": "Howling Abyss",
+    "DESCRIPTION": "Legend of the Poro King games",
+    "NOTES": ""
+  },
+  {
+    "ID": 940,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Nexus Siege games",
+    "NOTES": ""
+  },
+  {
+    "ID": 950,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Doom Bots Voting games",
+    "NOTES": ""
+  },
+  {
+    "ID": 960,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Doom Bots Standard games",
+    "NOTES": ""
+  },
+  {
+    "ID": 980,
+    "MAP": "Valoran City Park",
+    "DESCRIPTION": "Star Guardian Invasion: Normal games",
+    "NOTES": ""
+  },
+  {
+    "ID": 990,
+    "MAP": "Valoran City Park",
+    "DESCRIPTION": "Star Guardian Invasion: Onslaught games",
+    "NOTES": ""
+  },
+  {
+    "ID": 1000,
+    "MAP": "Overcharge",
+    "DESCRIPTION": "PROJECT: Hunters games",
+    "NOTES": ""
+  },
+  {
+    "ID": 1010,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "Snow ARURF games",
+    "NOTES": ""
+  },
+  {
+    "ID": 1020,
+    "MAP": "Summoner's Rift",
+    "DESCRIPTION": "One for All games",
+    "NOTES": ""
+  },
+  {
+    "ID": 1030,
+    "MAP": "Crash Site",
+    "DESCRIPTION": "Odyssey Extraction: Intro games",
+    "NOTES": ""
+  },
+  {
+    "ID": 1040,
+    "MAP": "Crash Site",
+    "DESCRIPTION": "Odyssey Extraction: Cadet games",
+    "NOTES": ""
+  },
+  {
+    "ID": 1050,
+    "MAP": "Crash Site",
+    "DESCRIPTION": "Odyssey Extraction: Crewmember games",
+    "NOTES": ""
+  },
+  {
+    "ID": 1060,
+    "MAP": "Crash Site",
+    "DESCRIPTION": "Odyssey Extraction: Captain games",
+    "NOTES": ""
+  },
+  {
+    "ID": 1070,
+    "MAP": "Crash Site",
+    "DESCRIPTION": "Odyssey Extraction: Onslaught games",
+    "NOTES": ""
+  },
+  {
+    "ID": 1200,
+    "MAP": "Nexus Blitz",
+    "DESCRIPTION": "Nexus Blitz games",
+    "NOTES": ""
+  }
+]

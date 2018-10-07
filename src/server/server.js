@@ -1,8 +1,11 @@
 var express = require('express');
 var request = require('request');
+var path = require('path');
+
+var matchmakingData = require('./data/match-constants.json')
 
 var app = express();
-var apiKey = "RGAPI-dfbe844a-ce2c-4609-b98f-ee3e68f0a63a";
+var apiKey = "RGAPI-fe33d8d1-3ee5-4de8-8696-858297caada1";
 
 var ddragonURL = "https://ddragon.leagueoflegends.com";
 var devAPIURL = "https://na1.api.riotgames.com/lol/summoner/v3";
@@ -96,6 +99,10 @@ app.get('/api/reforged', function (req, res) {
             res.json(body);
         }
     });
+});
+
+app.get('/api/matchmaking', function (req, res) {
+    res.json(path.join(__dirname + '/public/data/match-constants.json'));
 });
 
 

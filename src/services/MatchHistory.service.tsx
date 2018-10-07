@@ -6,7 +6,7 @@ export class MatchHistoryService {
     private championsURL: string = "/api/champions";
     private spellsURL: string = "/api/spells";
     private runesURL: string = "/api/reforged";
-    private matchMakingURL: string = "./data/match-constants.json";
+    private matchMakingURL: string = "/api/matchmaking";
 
     public getMatchesByIgn(ign: string): Promise<any> {
         return fetch(this.apiURL + this.summonerURL + "?ign=" + ign)

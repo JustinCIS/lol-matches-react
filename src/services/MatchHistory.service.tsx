@@ -55,7 +55,7 @@ export class MatchHistoryService {
     }
 
     public getMatchMakingTitles(): Promise<any> {
-        return fetch(this.matchMakingURL)
+        return fetch(this.apiURL + this.matchMakingURL)
             .then(response => {
                 return response.json();
             });

@@ -1,8 +1,6 @@
 var express = require('express');
 var request = require('request');
-var path = require('path');
-
-var matchmakingData = require('./data/match-constants.json')
+var matchmakingData = require('../../public/data/match-constants.json')
 
 var app = express();
 var apiKey = "RGAPI-fe33d8d1-3ee5-4de8-8696-858297caada1";
@@ -102,7 +100,7 @@ app.get('/api/reforged', function (req, res) {
 });
 
 app.get('/api/matchmaking', function (req, res) {
-    res.json(path.join(__dirname + '/public/data/match-constants.json'));
+    res.json(matchmakingData);
 });
 
 
